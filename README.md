@@ -48,17 +48,18 @@ No re-ranking, no memory, no feedback loops—just the fundamentals.
 ---
 
 ## 5. System Architecture
-User Question
-↓
-Query Embedding
-↓
-Vector Similarity Search
-↓
-Top-K Relevant Chunks
-↓
-Prompt Construction
-↓
-LLM Answer
+> User Question  
+> ↓  
+> Query Embedding  
+> ↓  
+> Vector Similarity Search  
+> ↓  
+> Top-K Relevant Chunks  
+> ↓  
+> Prompt Construction  
+> ↓  
+> LLM Answer
+
 
 
 ---
